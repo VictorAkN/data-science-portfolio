@@ -28,4 +28,4 @@ Below are selected projects demonstrating my skills.
 
 ## Contact
 - GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourname
+- LinkedIn: https://www.linkedin.com/in/rvictor-akande/
